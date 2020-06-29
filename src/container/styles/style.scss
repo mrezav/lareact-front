@@ -75,4 +75,14 @@ html, body{
             }
         }
     }
+    .myName{
+        display: block;
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        // background-color: blue;
+        color: dodgerblue;
+        text-align: center;
+    }
 }

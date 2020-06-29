@@ -89,6 +89,9 @@ class Login extends Component{
                             <a href="/register">Register</a>
                         </div>
                     </div>
+                    <div className="myName">
+                        by Muhammad Reza Vahlevi
+                    </div>
                 </div>
             </div>
         )

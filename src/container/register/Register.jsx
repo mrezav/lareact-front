@@ -94,6 +94,9 @@ class Register extends Component{
                             <a href="/login">Login</a>
                         </div>
                     </div>
+                    <div className="myName">
+                        by Muhammad Reza Vahlevi
+                    </div>
                 </div>
             </div>
         )
